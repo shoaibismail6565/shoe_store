@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498965488639",
+    "project_id": "shoe-store-fafe7",
+    "storage_bucket": "shoe-store-fafe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498965488639:android:648133dafddb9c14197dca",
+        "android_client_info": {
+          "package_name": "com.example.shoe_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPAkfdyDlKRGp7a4GZATrht-d-U4KZjto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
