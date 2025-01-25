@@ -1,6 +1,6 @@
 # shoe_store
 
-A new Flutter project.
+A new Flutter  Ecommerce project for online shopping using firebase as backend.
 
 ## Getting Started
 
